@@ -6,3 +6,6 @@
   </p>
   
 <strong>電は天使である</strong>
+<p>
+# <italic>なのです！</italic>
+</p>
